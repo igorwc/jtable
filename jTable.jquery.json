@@ -6,7 +6,7 @@
         "ajax",
         "table",
 		"grid",
-		"crud",
+		"crud" ,  
 		"jtable",
 		"paging",
 		"sorting"
